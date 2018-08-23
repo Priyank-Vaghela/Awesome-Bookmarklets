@@ -1,7 +1,7 @@
 # List of Awesome Bookmarklets
 
 ## Instant Web Proxy
-javascript:void(open('https://translate.google.co.in/translate?hl=en&sl=sq&tl=en&u='+location.href));
+'''javascript:void(open('https://translate.google.co.in/translate?hl=en&sl=sq&tl=en&u='+location.href));'''
 
 ## 1-Click Video Downloader
 javascript:void(open('https://tbvd.herokuapp.com/redirect?url='+encodeURIComponent(location.href)));
@@ -18,7 +18,7 @@ data:text/html, <html contenteditable>
 
 ## Instant Notepad (Dark)
 
-# How to use?
+> How to use?
 1. Select the code.
 2. Drag & drop into Bookmark bar.
 3. Done! 

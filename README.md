@@ -1,8 +1,8 @@
 # List of Awesome Bookmarklets
 
 > How to use?
-1. Select the code.
-2. Drag & drop into Bookmark bar.
+1. Copy the code.
+2. Drag & Drop into the Bookmark bar.
 3. Done! 
 
 - ## Instant Web Proxy
@@ -31,6 +31,7 @@ javascript:void(open('https://v2.convertapi.com/web/to/pdf?download=attachment&s
 javascript:void(open('https://v2.convertapi.com/url/to/jpg?download=attachment&secret=5LIWRmsz4uKJCITZ&url='+encodeURIComponent(location.href)));
 ```
 
+# Website
 - ## Website Analyzer (Traffic Statistics & Market Intelligence)
 ```javascript
 javascript:void(open('https://www.similarweb.com/website/'+encodeURIComponent(location.href)));

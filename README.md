@@ -1,9 +1,10 @@
 # List of Awesome Bookmarklets
 
-## Instant Web Proxyz
+## Instant Web Proxy
 
 ```javascript
-javascript:void(open('https://translate.google.co.in/translate?hl=en&sl=sq&tl=en&u='+location.href));```
+javascript:void(open('https://translate.google.co.in/translate?hl=en&sl=sq&tl=en&u='+location.href));
+```
 
 ## 1-Click Video Downloader
 javascript:void(open('https://tbvd.herokuapp.com/redirect?url='+encodeURIComponent(location.href)));

@@ -1,5 +1,10 @@
 # List of Awesome Bookmarklets
 
+> How to use?
+1. Select the code.
+2. Drag & drop into Bookmark bar.
+3. Done! 
+
 - ## Instant Web Proxy
 
 ```javascript
@@ -21,6 +26,71 @@ javascript:void(open('https://tbvd.herokuapp.com/video?url='+encodeURIComponent(
 javascript:void(open('https://v2.convertapi.com/web/to/pdf?download=attachment&secret=5LIWRmsz4uKJCITZ&url='+encodeURIComponent(location.href)));
 ```
 
+- ## 1-Click Photo Convertor
+```javascript
+javascript:void(open('https://v2.convertapi.com/url/to/jpg?download=attachment&secret=5LIWRmsz4uKJCITZ&url='+encodeURIComponent(location.href)));
+```
+
+- ## Website Analyzer (Traffic Statistics & Market Intelligence)
+```javascript
+javascript:void(open('https://www.similarweb.com/website/'+encodeURIComponent(location.href)));
+```
+
+- ## Website Realtime-Editor
+```javascript
+javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
+```
+
+- ## Website Time Machine (Wayback Machine)
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Responsive Website Tester
+```javascript
+javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
 # Bonus
 ## Instant Notepad
 ```
@@ -31,8 +101,3 @@ data:text/html, <html contenteditable>
 ```
 
 ```
-
-> How to use?
-1. Select the code.
-2. Drag & drop into Bookmark bar.
-3. Done! 

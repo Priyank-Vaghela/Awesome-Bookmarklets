@@ -77,7 +77,7 @@ javascript:(function(){var s=document.createElement('div');s.innerHTML='Loading.
 javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
 ```
 
-# Misc.
+# **Misc.**
 - ## Add to Feedly
 ```javascript
 javascript:void(open('https://feedly.com/i/subscription/feed/'+encodeURIComponent(location.href)));

@@ -31,7 +31,7 @@ javascript:void(open('https://v2.convertapi.com/web/to/pdf?download=attachment&s
 javascript:void(open('https://v2.convertapi.com/url/to/jpg?download=attachment&secret=5LIWRmsz4uKJCITZ&url='+encodeURIComponent(location.href)));
 ```
 
-# Website
+# **Website**
 - ## Website Analyzer (Traffic Statistics & Market Intelligence)
 ```javascript
 javascript:void(open('https://www.similarweb.com/website/'+encodeURIComponent(location.href)));

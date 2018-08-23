@@ -89,12 +89,12 @@ javascript:(function(){var e=function(t,n,r,i,s){var o=[3139821,1691404,3942330,
 ```
 
 # Bonus :sparkles:
-## Instant Notepad
+- ## Instant Notepad
 ```
 data:text/html, <html contenteditable>
 ```
 
-## Instant Notepad (Dark)
+- ## Instant Notepad (Dark)
 ```
 data:text/html;charset=utf-8, <title>Notepad (Nightmode)</title><body contenteditable style="font-family: DejaVu;font-weight:bold;background:%231E1E1E;color:%23FFFFFF;font-size:1rem;line-height:1.4;max-width:80rem;margin:0 auto;padding:2rem;" spellcheck="false">
 ```

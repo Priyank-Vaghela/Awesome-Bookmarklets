@@ -2,7 +2,7 @@
 
 > How to use? 
 1. Copy the code.
-2. Drag & Drop into the Bookmark bar.  (Rename it (Optional))
+2. Drag & Drop into the Bookmark bar. _Rename title (Optional)_
 3. Done! :tada:  
 
 - ## Instant Web Proxy

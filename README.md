@@ -2,8 +2,8 @@
 
 > How to use? 
 1. Copy the code.
-2. Drag & Drop into the Bookmark bar.
-3. Done! :tada:
+2. Drag & Drop into the Bookmark bar. //Rename it (Optional) 
+3. Done! :tada:  
 
 - ## Instant Web Proxy
 
@@ -37,7 +37,7 @@ javascript:void(open('https://v2.convertapi.com/url/to/jpg?download=attachment&s
 javascript:void(open('https://www.similarweb.com/website/'+encodeURIComponent(location.href)));
 ```
 
-- ## Website Realtime-Editor
+- ## Website Quick Editor
 ```javascript
 javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
 ```
@@ -45,6 +45,11 @@ javascript:document.body.contentEditable = 'true'; document.designMode='on'; voi
 - ## Website Time Machine (Wayback Machine)
 ```javascript
 javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+```
+
+- ## Similar Website Finder
+```javascript
+javascript:void(open('https://www.google.com/search?q=related:'+location.href));
 ```
 
 - ## Website Whois Loopup

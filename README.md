@@ -52,7 +52,7 @@ javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640
 javascript:void(open('https://www.google.com/search?q=related:'+location.href));
 ```
 
-- ## Website Whois Loopup
+- ## Website Whois Lookup
 ```javascript
 javascript:void(open('http://whois.domaintools.com/'+encodeURIComponent(location.href)));
 ```

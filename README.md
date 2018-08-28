@@ -1,4 +1,4 @@
-# List of Awesome Bookmarklets :rocket:
+# List of Awesome Bookmarklets :rocket: [![Build Status](https://travis-ci.org/Priyank-Vaghela/Awesome-Bookmarklet.svg?branch=master)](https://travis-ci.org/Priyank-Vaghela/Awesome-Bookmarklet)
 
 > How to use? 
 1. Copy the code.

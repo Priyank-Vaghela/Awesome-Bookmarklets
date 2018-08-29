@@ -20,14 +20,18 @@ javascript:void(open('https://tbvd.herokuapp.com/redirect?url='+encodeURICompone
 javascript:void(open('https://tbvd.herokuapp.com/video?url='+encodeURIComponent(location.href)+'&audio=on'));
 ```
 
-- ## 1-Click PDF Convertor
+- ## 1-Click PDF Downloader
 ```javascript
 javascript:void(open('https://v2.convertapi.com/web/to/pdf?download=attachment&secret=5LIWRmsz4uKJCITZ&url='+encodeURIComponent(location.href)));
 ```
 
-- ## 1-Click Photo Convertor
+- ## 1-Click Photo Downloader
 ```javascript
 javascript:void(open('https://v2.convertapi.com/url/to/jpg?download=attachment&secret=5LIWRmsz4uKJCITZ&url='+encodeURIComponent(location.href)));
+```
+- ## 1-Click Photo Downloader
+```javascript
+javascript:(function(){readConvertLinksToFootnotes=false;readStyle='style-apertura';readSize='size-large';readMargin='margin-wide';_readability_script=document.createElement('script');_readability_script.type='text/javascript';_readability_script.src='https://ejucovy.github.io/readability/js/readability.js?x='+(Math.random());document.documentElement.appendChild(_readability_script);_readability_css=document.createElement('link');_readability_css.rel='stylesheet';_readability_css.href='https://ejucovy.github.io/readability/css/readability.css?1';_readability_css.type='text/css';_readability_css.media='all';document.documentElement.appendChild(_readability_css);_readability_print_css=document.createElement('link');_readability_print_css.rel='stylesheet';_readability_print_css.href='https://ejucovy.github.io/readability/css/readability-print.css';_readability_print_css.media='print';_readability_print_css.type='text/css';document.getElementsByTagName('head')[0].appendChild(_readability_print_css);})();
 ```
 
 # **Website**

@@ -2,7 +2,7 @@
 
 > How to use? 
 1. Copy the code.
-2. In the Bookmark bar _**Right click, add page & Paste the code.**_ Add title (Optional)
+2. From the Bookmark bar _**Right click, add page & Paste the code.**_ Add title (Optional)
 3. Done! :tada:  
 
 - ## Instant Web Proxy

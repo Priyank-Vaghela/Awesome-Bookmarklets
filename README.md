@@ -5,7 +5,7 @@
 2. From the Bookmark bar _**Right click, add page & Paste the code.**_ Add title (Optional)
 3. Done! :tada:  
 
-- ## Instant Web Proxy
+- ## Instant Web Proxy (Google Translate)
 ```javascript
 javascript:void(open('https://translate.google.co.in/translate?hl=en&sl=sq&tl=en&u='+location.href));
 ```

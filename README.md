@@ -108,3 +108,6 @@ data:text/html;charset=utf-8, <title>Notepad (Nightmode)</title><body contentedi
 ```
 
 ### This repo is regularly updated.
+
+## License
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](//creativecommons.org/publicdomain/zero/1.0/)

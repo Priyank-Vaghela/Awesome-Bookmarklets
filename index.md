@@ -1,4 +1,4 @@
-# List of Awesome Bookmarklets :rocket:
+# List of Awesome Bookmarklets 🚀
 
 > How to use? 
 1. Copy the code.

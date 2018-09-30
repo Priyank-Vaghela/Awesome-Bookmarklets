@@ -3,7 +3,8 @@
 > How to use? 
 1. Copy the code.
 2. From the Bookmark bar _**Right click, add page & Paste the code.**_ Add title (Optional)
-3. Done! :tada:  
+3. Done! 🎉
+
 
 - ## Instant Web Proxy (Google Translate)
 ```javascript

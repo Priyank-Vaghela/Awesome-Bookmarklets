@@ -47,7 +47,17 @@ javascript:document.body.contentEditable = 'true'; document.designMode='on'; voi
 
 - ## Website Time Machine (Wayback Machine)
 ```javascript
-javascript:void(open('http://quirktools.com/screenfly/#u='+location.href+'&w=640&h=480&a=4&s=1'));
+javascript:void(open('https://web.archive.org/web/*/'+decodeURIComponent(location.href)));
+```
+
+- ## Website Time Machine #2 (WebCite)
+```javascript
+javascript:void(open('http://www.webcitation.org/query?url='+decodeURIComponent(location.href)));
+```
+
+- ## View Cached Website
+```javascript
+javascript:void(open('cache:'+decodeURIComponent(location.href)));
 ```
 
 - ## Similar Website Finder
